@@ -17,7 +17,7 @@ package org.lineageos.eleven.utils;
 
 import android.app.Activity;
 import android.provider.MediaStore;
-import android.support.v4.app.FragmentManager;
+import androidx.fragment.app.FragmentManager;
 
 import android.view.MenuItem;
 import org.lineageos.eleven.Config;

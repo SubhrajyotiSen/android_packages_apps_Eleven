@@ -15,7 +15,7 @@
 */
 package org.lineageos.eleven.widgets;
 import android.content.Context;
-import android.support.v4.app.FragmentActivity;
+import androidx.fragment.app.FragmentActivity;
 import android.util.AttributeSet;
 
 import org.lineageos.eleven.ui.activities.SlidingPanelActivity;

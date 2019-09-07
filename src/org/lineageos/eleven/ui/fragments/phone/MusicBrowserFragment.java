@@ -16,9 +16,9 @@
 package org.lineageos.eleven.ui.fragments.phone;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.LoaderManager;
-import android.support.v4.app.LoaderManager.LoaderCallbacks;
+import androidx.fragment.app.Fragment;
+import androidx.loader.app.LoaderManager;
+import androidx.loader.app.LoaderManager.LoaderCallbacks;
 
 /**
  * This class is used for fragments under the {@link MusicBrowserFragment}

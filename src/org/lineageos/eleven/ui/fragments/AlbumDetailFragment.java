@@ -16,7 +16,7 @@
 package org.lineageos.eleven.ui.fragments;
 
 import android.os.Bundle;
-import android.support.v4.app.LoaderManager;
+import androidx.loader.app.LoaderManager;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.ListView;
